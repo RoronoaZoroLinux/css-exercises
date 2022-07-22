@@ -1,0 +1,26 @@
+
+.oddnumber{
+
+    font-family: Verdana, sans-serif, DejaVu Sans;
+    background-color:#ff9999;
+   
+    
+  }
+  #anotherID{
+
+    background-color: lightgreen;
+     font-size: 24px;
+     font-weight: bold;
+    
+  }
+ #oneID{
+  font-size: 36px;
+  color: blue;
+ }
+
+ .number3{
+
+
+  font-size: 24px;
+
+ }
